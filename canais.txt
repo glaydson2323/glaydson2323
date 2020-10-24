@@ -20,3 +20,4 @@ ruydo_fps
 uruguai0
 lettpereira
 amd22k
+vintagefps1
