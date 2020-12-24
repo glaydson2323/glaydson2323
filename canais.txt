@@ -35,3 +35,5 @@ snowzin_agg
 shoowtime
 tiburciand0
 zaphhtv
+dexzera
+gio_fps
