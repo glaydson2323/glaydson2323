@@ -57,3 +57,6 @@ duffyfps
 sksfps1
 nowayzao
 wastzera
+csrfps
+zevy
+bris4cs
