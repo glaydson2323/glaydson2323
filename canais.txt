@@ -1,4 +1,3 @@
-ruydofps
 gaules
 mch_agg
 clutchcircuit
@@ -68,3 +67,5 @@ larinhafps_
 kennys
 neehcsgo
 liminhag0d
+tiburci0
+barr4k
