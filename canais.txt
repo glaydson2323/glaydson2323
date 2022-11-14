@@ -74,3 +74,6 @@ xaxaa10
 y4s_
 moralesfps
 mwhs
+pubg_battlegrounds
+pubg_br
+pubglatam
