@@ -78,3 +78,4 @@ pubg_battlegrounds
 pubg_br
 pubglatam
 toxic_vaz
+rnakano
